@@ -1,0 +1,8 @@
+.boek {
+  padding: 50px;
+  font-size: 32pt;
+}
+
+.boek .info {
+  font-size: 16pt;
+}
